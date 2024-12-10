@@ -17,7 +17,6 @@ To get all the books in catalogs `Language/zh` from [Project Gutenberg](https://
 | beautifulsoup4 | 4.12.3 |
 | requests     | 2.32.3 |
 | selenium        | 4.27.1 |
-| pandas       | 1.3.3 |
 
 ## Results
 All XXX books as results in folder `project_gutenberg`.\
