@@ -7,6 +7,9 @@ To get all the books in catalogs `Language/zh` from [Project Gutenberg](https://
 
 ## Project Structure
 
+## Installing
+`pip install -r requirements.txt`
+
 ## Versioning
 
 #### Python Version
