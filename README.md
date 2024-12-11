@@ -8,8 +8,8 @@ All file save as .txt, content and file name without English characters.
 ## Project Structure
 ```
 ├── book_ids.csv
-├── GeBerg_request.ipynb
-├── GuBerg_get_id.ipynb
+├── GTBerg_request.ipynb
+├── GTBerg_get_id.ipynb
 ├── README.md
 ├── requirements.txt
 └── project_gutenberg
